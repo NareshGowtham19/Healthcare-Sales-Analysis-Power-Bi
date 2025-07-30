@@ -49,7 +49,6 @@ Sales teams show shifting performance trends across years, with standout reps dr
 - `executive_summary.pbix`
 - `distributor_analysis.pbix`
 - `team_performance.pbix`
-- `dashboard_snapshots/` *(with thumbnails of each dashboard view)*
 
 ---
 
