@@ -3,9 +3,12 @@
 ## 🧭 Overview
 This Power BI project is a three-part dashboard series designed to provide deep insights into business performance from strategic, operational, and team-based perspectives. Each dashboard offers a unique lens into sales data, helping stakeholders make data-driven decisions across leadership, product, and personnel levels.
 
+## Executive Summary Dashboard
+![img](https://github.com/NareshGowtham19/Healthcare-Sales-Analysis-Power-Bi/blob/main/Executive%20Summary.png)
+
 ---
 
-## 1️⃣ Executive Summary Dashboard
+## Executive Summary 
 ### 🎯 Focus
 - Big-picture KPIs: Total Sales, YoY Trends, Top Cities
 - Regional Performance: Germany vs. Poland
@@ -15,8 +18,10 @@ This Power BI project is a three-part dashboard series designed to provide deep 
 Germany leads total sales volume, with Pharmacy contributing nearly half. Gerlach LLC tops all distributors with $3.5bn in sales.
 
 ---
+## Distributor & Customer Analysis Dashboard
+![img](https://github.com/NareshGowtham19/Healthcare-Sales-Analysis-Power-Bi/blob/main/Distributor%20%26%20Customer%20Analysis.png)
 
-## 2️⃣ Distributor & Customer Analysis
+## Distributor & Customer Analysis
 ### 🎯 Focus
 - Product Class Trends (e.g., Analgesics, Ionclotide)
 - Monthly Sales Seasonality (Peak in August)
@@ -26,8 +31,10 @@ Germany leads total sales volume, with Pharmacy contributing nearly half. Gerlac
 Sales declined from $3.5bn to $3.0bn over three years, while Analgesics remained the top-selling product class.
 
 ---
+## Sales Team Performance Dashboard
+![img](https://github.com/NareshGowtham19/Healthcare-Sales-Analysis-Power-Bi/blob/main/Sales%20Team%20Performance.png)
 
-## 3️⃣ Sales Team Performance
+## Sales Team Performance
 ### 🎯 Focus
 - Top-performing Managers, Teams, and Sales Reps
 - Product & Channel-based breakdown by team
