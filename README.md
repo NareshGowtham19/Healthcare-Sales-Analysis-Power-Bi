@@ -4,7 +4,7 @@
 This Power BI project is a three-part dashboard series designed to provide deep insights into business performance from strategic, operational, and team-based perspectives. Each dashboard offers a unique lens into sales data, helping stakeholders make data-driven decisions across leadership, product, and personnel levels.
 
 ## Executive Summary Dashboard
-
+![img](https://github.com/NareshGowtham19/Healthcare-Sales-Analysis-Power-Bi/blob/main/Executive%20Summary.png)
 
 ---
 
